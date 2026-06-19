@@ -5,6 +5,12 @@ An end-to-end **Power BI** analytics project that turns raw credit card transact
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Tool](https://img.shields.io/badge/tool-Power%20BI-yellow)
 ![Database](https://img.shields.io/badge/database-PostgreSQL-blue)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
+<p align="center">
+  <img src="./images/customer_report.png" alt="Customer Report" width="48%">
+  <img src="./images/transaction_report.png" alt="Transaction Report" width="48%">
+</p>
 
 ---
 
@@ -236,7 +242,7 @@ Save as `.pbix` and publish to Power BI Service, or export to PDF for sharing (a
 ## 📊 Dashboard Pages
 
 ### Page 1 — Credit Card Customer Report
-![Customer Report](./Credit_Card_Financial_Dashboard-Customer.pdf)
+![Customer Report](./images/customer_report.png)
 
 **KPIs:** Total Revenue `55.4M` · Total Interest `7.9M` · Total Income `577M` · CSS `3.19`
 
@@ -253,7 +259,7 @@ Save as `.pbix` and publish to Power BI Service, or export to PDF for sharing (a
 **Slicers:** Week_Start_Date, Income Group (Low/Mid/High), Card_Category (Platinum/Gold/Silver/Blue), Qtr (Q1–Q4)
 
 ### Page 2 — Credit Card Transaction Report
-![Transaction Report](./Credit_Card_Financial_Dashboard-Transaction.pdf)
+![Transaction Report](./images/transaction_report.png)
 
 **KPIs:** Total Revenue `55.4M` · Total Interest `7.9M` · Transaction Amount `45M` · Transaction Count `657K`
 
@@ -303,8 +309,9 @@ credit-card-financial-dashboard/
 ├── README.md
 ├── SQL_Query_-_Financial_Dashboard_Data.sql
 ├── Credit_Card_Dashboard.pbix
-├── Credit_Card_Financial_Dashboard-Customer.pdf
-├── Credit_Card_Financial_Dashboard-Transaction.pdf
+├── images/
+│   ├── customer_report.png
+│   └── transaction_report.png
 └── data/
     ├── credit_card.csv      (not included — add your own)
     ├── customer.csv         (not included — add your own)
@@ -328,7 +335,4 @@ credit-card-financial-dashboard/
 
 **Project type:** Personal/portfolio data analytics project
 **Tools used:** PostgreSQL, Power BI Desktop
-**Contact:** Add your name, LinkedIn, and portfolio link here.
-
 ---
-
