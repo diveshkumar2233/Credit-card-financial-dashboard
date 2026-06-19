@@ -5,7 +5,6 @@ An end-to-end **Power BI** analytics project that turns raw credit card transact
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Tool](https://img.shields.io/badge/tool-Power%20BI-yellow)
 ![Database](https://img.shields.io/badge/database-PostgreSQL-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
@@ -333,6 +332,3 @@ credit-card-financial-dashboard/
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License — feel free to use and adapt it for learning purposes.
