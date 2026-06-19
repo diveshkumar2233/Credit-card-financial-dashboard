@@ -242,7 +242,7 @@ Save as `.pbix` and publish to Power BI Service, or export to PDF for sharing (a
 ## 📊 Dashboard Pages
 
 ### Page 1 — Credit Card Customer Report
-![Customer Report](./images/customer_report.png)
+![Customer Report](customer_report.png)
 
 **KPIs:** Total Revenue `55.4M` · Total Interest `7.9M` · Total Income `577M` · CSS `3.19`
 
@@ -259,7 +259,7 @@ Save as `.pbix` and publish to Power BI Service, or export to PDF for sharing (a
 **Slicers:** Week_Start_Date, Income Group (Low/Mid/High), Card_Category (Platinum/Gold/Silver/Blue), Qtr (Q1–Q4)
 
 ### Page 2 — Credit Card Transaction Report
-![Transaction Report](./images/transaction_report.png)
+![Transaction Report](transaction_report.png)
 
 **KPIs:** Total Revenue `55.4M` · Total Interest `7.9M` · Transaction Amount `45M` · Transaction Count `657K`
 
