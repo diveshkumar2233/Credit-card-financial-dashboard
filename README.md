@@ -8,7 +8,7 @@ An end-to-end **Power BI** analytics project that turns raw credit card transact
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 <p align="center">
-  <img src="./images/customer_report.png" alt="Customer Report" width="48%">
+  <img src="customer_report.png" alt="Customer Report" width="48%">
   <img src="./images/transaction_report.png" alt="Transaction Report" width="48%">
 </p>
 
