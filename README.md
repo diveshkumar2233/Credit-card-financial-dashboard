@@ -5,7 +5,7 @@ An end-to-end **Power BI** analytics project that turns raw credit card transact
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Tool](https://img.shields.io/badge/tool-Power%20BI-yellow)
 ![Database](https://img.shields.io/badge/database-PostgreSQL-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 
 <p align="center">
   <img src="customer_report.png" alt="Customer Report" width="48%">
