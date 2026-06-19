@@ -9,7 +9,7 @@ An end-to-end **Power BI** analytics project that turns raw credit card transact
 
 <p align="center">
   <img src="customer_report.png" alt="Customer Report" width="48%">
-  <img src="./images/transaction_report.png" alt="Transaction Report" width="48%">
+  <img src="transaction_report.png" alt="Transaction Report" width="48%">
 </p>
 
 ---
